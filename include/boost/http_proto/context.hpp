@@ -14,7 +14,6 @@
 #include <boost/http_proto/string_view.hpp>
 #include <boost/http_proto/detail/type_index.hpp>
 #include <memory>
-#include <typeindex>
 
 namespace boost {
 namespace http_proto {
